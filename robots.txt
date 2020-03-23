@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aengaigax.ianuj.in/sitemap.xml
